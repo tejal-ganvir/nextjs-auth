@@ -13,4 +13,14 @@ a {
 
 * {
   box-sizing: border-box;
+  word-wrap: break-word;
+}
+
+.feature-user-actions{
+  display: inline-block;
+  float: right;
+}
+
+.feature-user-actions i{
+  cursor: pointer;
 }

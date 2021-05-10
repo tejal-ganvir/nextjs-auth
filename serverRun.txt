@@ -1,0 +1,3 @@
+to start next js server => npm run dev -- -p 8080
+
+to start node backend server => npm run start

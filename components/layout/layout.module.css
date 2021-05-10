@@ -1,0 +1,22 @@
+.app_container{
+    
+}
+
+.app_content{
+    padding: 20px;
+    border: 1px solid rebeccapurple;
+    width: 100%;
+    min-height: 500px;
+}
+
+.footer{
+    text-align: center;
+    background-color: #3f4347;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
